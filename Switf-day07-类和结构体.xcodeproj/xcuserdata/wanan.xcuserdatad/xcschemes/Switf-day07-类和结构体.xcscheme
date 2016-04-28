@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0720"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F2C440881CD1AC74003D18D0"
+               BuildableName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.app"
+               BlueprintName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;"
+               ReferencedContainer = "container:Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F2C4409C1CD1AC74003D18D0"
+               BuildableName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;Tests.xctest"
+               BlueprintName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;Tests"
+               ReferencedContainer = "container:Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F2C440A71CD1AC74003D18D0"
+               BuildableName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;UITests.xctest"
+               BlueprintName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;UITests"
+               ReferencedContainer = "container:Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F2C440881CD1AC74003D18D0"
+            BuildableName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.app"
+            BlueprintName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;"
+            ReferencedContainer = "container:Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F2C440881CD1AC74003D18D0"
+            BuildableName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.app"
+            BlueprintName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;"
+            ReferencedContainer = "container:Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F2C440881CD1AC74003D18D0"
+            BuildableName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.app"
+            BlueprintName = "Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;"
+            ReferencedContainer = "container:Switf-day07-&#x7c7b;&#x548c;&#x7ed3;&#x6784;&#x4f53;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
